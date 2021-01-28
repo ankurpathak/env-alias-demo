@@ -6,3 +6,4 @@ alias envkill="docker-compose -f $ENV_PATH/docker-compose.yml kill mongo redis";
 alias envlogs="docker-compose -f $ENV_PATH/docker-compose.yml logs";
 alias cmdmongo="docker-compose -f $ENV_PATH/docker-compose.yml exec mongo bash";
 alias cmdredis="docker-compose -f $ENV_PATH/docker-compose.yml exec redis bash";
+#https://www.cyberciti.biz/faq/create-permanent-bash-alias-linux-unix/
