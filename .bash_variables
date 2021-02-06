@@ -1,0 +1,14 @@
+export ENV_PATH="/home/ssguser/IdeaProjects/docker-compose-demo";
+export PASSWORD_SMEGNG_81_7="12345@Turbo";
+#SIT
+export PASSWORD_MONITOR_54_82="pass@123";
+#UAT
+export PASSWORD_MONITOR_61_27="pass@123";
+#PREPROD1
+export PASSWORD_MONITOR_52_51="pass@123";
+#PREPROD2
+export PASSWORD_MONITOR_52_15="pass@123";
+#QA
+export PASSWORD_MONITOR_54_83="pass@123";
+
+ 
